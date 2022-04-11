@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @paritosh2
-- 👀 I’m interested in Windows active directory, windows server, vmware, hyper-V.
+- 👀 I’m interested in Windows active directory, windows server, vmware, hyper-V, Azure.
 - 🌱 I’m currently learning unix and node.js
 - 💞️ I’m looking to collaborate with anything which gives me new challanges and new learnig things.
 - 📫 How to reach me paritoshdesale@gmail.com.
